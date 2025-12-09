@@ -48,11 +48,6 @@ This flow is perfect for:
 
 ---
 
-## Created by Maia P.
-
-**AI Automation Engineer**  
-Helping businesses scale with intelligent systems powered by AI and CRM automation.
-
-> *Let’s build your custom system.*
+## Created by Aria Pioquinto
 
 
